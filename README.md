@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### What I last listened to
+### What I'm currently listening to
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://spotify-readme-kennyvungo.vercel.app/api" alt="Current Spotify Song">
 </a>
 
-### What I last watched
-  <img src="https://m.media-amazon.com/images/M/MV5BMmM4YzJjZGMtNjQxMy00NjdlLWJjYTItZWZkYzdhOTdhNzFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" width="200">
-### What I last read
-  <img src="https://www.arts.gov/sites/default/files/images/best-we-could-cover-for-big-read.jpg" alt="Current Book" width="200">
+### What I last watched  What I last read
+  <img src="https://m.media-amazon.com/images/M/MV5BMmM4YzJjZGMtNjQxMy00NjdlLWJjYTItZWZkYzdhOTdhNzFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" width="200">  <img src="https://www.arts.gov/sites/default/files/images/best-we-could-cover-for-big-read.jpg" alt="Current Book" width="200">
+
