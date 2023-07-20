@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+I am a former pharmacist turned software engineer.
+I like movies and music and coding.
+Javascript is the best language.
 
 <!--
 **kennyvungo/kennyvungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
