@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </a>
 
 ### What I last watched
-  <img src="https://m.media-amazon.com/images/M/MV5BMmM4YzJjZGMtNjQxMy00NjdlLWJjYTItZWZkYzdhOTdhNzFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg">
+  <img src="https://m.media-amazon.com/images/M/MV5BMmM4YzJjZGMtNjQxMy00NjdlLWJjYTItZWZkYzdhOTdhNzFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" width="200">
 ### What I last read
-  <img src="https://www.arts.gov/sites/default/files/images/best-we-could-cover-for-big-read.jpg" alt="Current Book">
+  <img src="https://www.arts.gov/sites/default/files/images/best-we-could-cover-for-big-read.jpg" alt="Current Book" width="200">
