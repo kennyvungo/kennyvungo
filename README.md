@@ -1,6 +1,6 @@
 ### Hello 👋
 I am a former pharmacist turned software engineer.
-I like movies and music and coding.
+I like movies, music, and I guess coding.
 Javascript is the best language.
 
 <!--
@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# What I last listened to
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://spotify-readme-kennyvungo.vercel.app/api" alt="Current Spotify Song">
 </a>
+
+# What I last watched
+
+# What I last read
