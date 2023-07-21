@@ -1,4 +1,4 @@
-### Hello 👋
+### Hey 👋
 I am a former pharmacist turned software engineer.
 I like movies, music, and I guess coding.
 
