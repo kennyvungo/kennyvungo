@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ### What I last watched &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What I last read
   <img src="https://m.media-amazon.com/images/M/MV5BZjE1MzJlNjYtNDI3ZS00MzRkLTlhMDYtNDU5YWU3YTI3Yzg0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.arts.gov/sites/default/files/images/best-we-could-cover-for-big-read.jpg" alt="Current Book" width="150">
-
+<!--
 ### What is the best language
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="150">
-
+-->
 
 📫 Best way to reach me is through email: kennyvungo@gmail.com  
 You can find more about what I'm currently working on at [kennyvungo.com](kennyvungo.com)
