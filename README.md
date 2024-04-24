@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 📫 Best way to reach me is through email: kennyvungo@gmail.com  
-You can find more about what I'm currently working on at [kennyvungo.com](www.kennyvungo.com)
+You can find more about what I'm currently working on at [kennyvungo.com](https://www.kennyvungo.com)
 
 
 
