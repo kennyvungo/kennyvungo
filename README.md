@@ -2,7 +2,6 @@
 I am a former pharmacist turned software engineer.
 I like movies, music, and coding.
 
-
 <!--
 **kennyvungo/kennyvungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,9 +29,8 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="150">
 
 
-🌱 I’m currently learning C++  
-🔭 I’m currently working on myself  
 📫 Best way to reach me is through email: kennyvungo@gmail.com  
+You can find more about what I'm currently working on at [kennyvungo.com](kennyvungo.com)
 
 
 
